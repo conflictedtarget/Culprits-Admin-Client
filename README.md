@@ -1,4 +1,6 @@
-# Culprits Admin Client
+# Culprits Admin Client (BETA)
+# To See Commands Use ;cmds
+# Wait 30 Seconds Before Using!
 
 ## status: Online
 
