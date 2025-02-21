@@ -4,7 +4,7 @@
 
 ## script load:
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/conflictedtarget/Culprits-Admin-Panel/main/Admin.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/conflictedtarget/Culprits-Admin-Client/refs/heads/main/Culprits-Admin.lua'))()
 ```
 ## commands:
 ```
